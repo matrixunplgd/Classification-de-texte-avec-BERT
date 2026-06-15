@@ -1,0 +1,6 @@
+# Fichiers lourds à ne pas commit
+data/
+*.pt
+*.bin
+__pycache__/
+.ipynb_checkpoints/
